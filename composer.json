@@ -1,6 +1,6 @@
 {
   "require": {
-    "locphp/xcs": "^7.10.33"
+    "locphp/xcs": "^7.10.45"
   },
   "repositories": {
     "packagist": {
