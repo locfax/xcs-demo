@@ -6,7 +6,7 @@ class Main extends Controller {
 
     function act_index() {
 
-        phpinfo();
+        echo 'welcome to xcs demo!';
 
     }
 }
